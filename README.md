@@ -35,7 +35,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomes0705&theme=radical)
 
-## Experiência Profissional
+## Experiência Profissional🔥
 <div style= "display: inline_block"><br/>
   <img align= "center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
   <img align= "center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
