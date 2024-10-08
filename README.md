@@ -33,7 +33,7 @@
 <br><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomes0705&theme=radical)
+<img height= "250em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gomes0705&theme=radical">
 
 ## Experiência Profissional🔥
 <div style= "display: inline_block"><br/>
